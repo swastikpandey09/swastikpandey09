@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/swastikpandey09/plag-detector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swastikpandey09&repo=plag-detector&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swastikpandey09&repo=stress-testing-software&theme=tokyonight" />
   </a>
 </p>
 
