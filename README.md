@@ -28,7 +28,7 @@
 <h3 align="center" style="color:#00ffe5;">🚀 Top Starred Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/swastikpandey09/plag-detector">
+  <a href="https://github.com/swastikpandey09/stress-testing-software">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swastikpandey09&repo=stress-testing-software&theme=tokyonight" />
   </a>
 </p>
