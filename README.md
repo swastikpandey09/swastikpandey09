@@ -2,10 +2,6 @@
 <h3 align="center" style="color:#fffa65;">⚡ A passionate Machine Learning & Data Structures Developer from India ⚡</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastikpandey09&label=👁️ Profile Views&color=00ffe5&style=flat" alt="swastikpandey09" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=swastikpandey09&theme=tokyonight&margin-w=15&margin-h=15" alt="swastikpandey09" />
   </a>
@@ -55,8 +51,8 @@
 <h3 align="left" style="color:#00ffe5;">🛠️ Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
@@ -78,6 +74,16 @@
 
 ---
 
+### 🌈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikpandey09&theme=tokyo-night-purple" alt="activity graph" />
+</p>
+
+---
+
+### 📚 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikpandey09&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
@@ -89,3 +95,18 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikpandey09&theme=tokyonight" />
 </p>
+
+---
+
+### 🗂️ All My Projects (Auto-Updated)
+
+<!-- Repo Cards -->
+<p align="center">
+  <a href="https://github.com/swastikpandey09?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=swastikpandey09&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+> ⭐ Generated with 💙 by [Swastik Pandey](https://github.com/swastikpandey09)
