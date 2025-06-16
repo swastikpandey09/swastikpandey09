@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [**plagiarism detector for codeforces**](github.com/swastikpandey09/plag-detector)
 
-- 👨‍💻 All of my projects are available at [github.com/swastikpandey09](github.com/swastikpandey09)
-
 - 📝 I regularly write articles on [codeforces.com](codeforces.com)
 
 - 💬 Ask me about **machine learning frameworks model and microservices**
