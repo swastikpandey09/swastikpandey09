@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://datascience.stackexchange.com/users/183750/vinod-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://datascience.stackexchange.com/users/183750/vinod-pandey" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fresh_tangerine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fresh_tangerine" height="30" width="40" /></a>
+<a href="https://datascience.stackexchange.com/users/183750/vinod-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinod-pandey" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fresh_tangerines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fresh_tangerines" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
