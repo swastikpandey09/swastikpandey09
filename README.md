@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **plagiarism detector for codeforces**
+- 🔭 I’m currently working on [**plagiarism detector for codeforces**](github.com/swastikpandey09/plag-detector)
 
-- 👨‍💻 All of my projects are available at [github.com/profile/swastikpandey09](github.com/profile/swastikpandey09)
+- 👨‍💻 All of my projects are available at [github.com/swastikpandey09](github.com/swastikpandey09)
 
 - 📝 I regularly write articles on [codeforces.com](codeforces.com)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vk_pandey31@live.co.uk**
 
-- ⚡ Fun fact **I'm 12 year old**
+- ⚡ Fun fact **I also have created a website for vestige and i also have created a stress testing software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
