@@ -17,7 +17,7 @@
 
 ### 🧠 Projects & Activities
 
-- 🔭 Currently Building: [**Plagiarism Detector for Codeforces**](https://github.com/swastikpandey09/plagiarism-checker)
+- 🔭 Currently Building: [**Plagiarism Detector for Codeforces**](https://prismas.up.railway.app/)
 - 📝 Writing on [Codeforces](https://codeforces.com)
 - 💬 Ask me about: **ML Frameworks, Model Design, Microservices**
 - 📫 Reach out: **vk_pandey31@live.co.uk**
